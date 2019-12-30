@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import datetime
 #from collections import Counter
 
-filename=r'C:\Users\jwang\Desktop\quickly\items_transactions\items-2019-09-02.csv'
+filename=r'\path\items-2019-09-02.csv'
 
 items= pd.read_csv(filename)
 items['Date']=pd.to_datetime(items['Date'])
