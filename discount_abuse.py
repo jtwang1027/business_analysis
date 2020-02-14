@@ -1,5 +1,5 @@
 '''
-To identify if customers have been abusing the rewards card (buy 9 drinks, 10th drink free), we can examine the sales data to estimate the 
+To identify if customers have been abusing the rewards card (buy 9 drinks, 10th drink free), we can examine the sales data (generated from Square) to estimate the 
 expected number of free drinks for each customer & identify customers who have received too many.
 '''
 
