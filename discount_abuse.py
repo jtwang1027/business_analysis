@@ -1,5 +1,7 @@
-#some names are missing still
-#include secret menu?
+'''
+To identify if customers have been abusing the rewards card (buy 9 drinks, 10th drink free), we can examine the sales data to estimate the 
+expected number of free drinks for each customer & identify customers who have received too many.
+'''
 
 import pandas as pd
 import numpy as np
